@@ -1,0 +1,5 @@
+def autogenerte(request):
+ service=request.post['Solution']
+ solution=request.post['Service']
+ 
+
